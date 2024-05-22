@@ -1,1 +1,2 @@
 This is my git workshop project
+I am updating this file
